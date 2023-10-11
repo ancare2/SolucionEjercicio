@@ -1,5 +1,5 @@
 ---
-title: "Solución Ejercicio"
+title: "Solución Ejercicio. Análisis Exploratorio de Datos"
 author: "Anna Cabrerizo Requena"
 date: "2023-10-11"
 output:
