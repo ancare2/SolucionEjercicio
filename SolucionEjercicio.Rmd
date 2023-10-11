@@ -25,6 +25,20 @@ library(robustbase)
 data("mammals")
 data("Animals2")
 
+x<-mammals
+print('mammals')
+dim(x)
+head(x)
+tail(x)
+str(x)
+
+y<-Animals2
+print('Animals2')
+dim(y)
+head(y)
+tail(y)
+str(y)
+
 ```
 
 
